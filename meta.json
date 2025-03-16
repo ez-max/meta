@@ -1,0 +1,12 @@
+{
+    "name": "GOLD",
+    "symbol": "GLD",
+    "description": "Only",
+    "image": "https://pics0.baidu.com/feed/3812b31bb051f819adf55d2ee8c109e12f73e707.jpeg?token=6c29c2974941b850b716fce407c228a0",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
